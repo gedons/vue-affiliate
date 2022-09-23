@@ -13,7 +13,14 @@ const store = createStore({
     },
     getters: {},
     actions: {},
-    mutations:{},
+    mutations:{
+        frontLoading: (state, loading) => {
+            state.front.loading = loading;
+        },
+        frontData: (state, data) => {
+            state.front.data = data;
+        }
+    },
     modules: {}
 })
 
