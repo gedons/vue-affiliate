@@ -6,7 +6,7 @@
                 <div class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                     <a href="#" class="flex items-center">
                         <img src="../assets/images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Logo" />
-                        <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Landwind</span>
+                        <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Affiliate</span>
                     </a>
                     <div class="flex items-center lg:order-2">
                         <div class="hidden mt-2 mr-4 sm:inline-block">
